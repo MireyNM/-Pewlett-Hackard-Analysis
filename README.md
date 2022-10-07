@@ -53,13 +53,17 @@ Table 3 - Mentorship-eligibility table that holds the current employees who are 
 ## Results 
 ### 1.  The Number of Retiring Employees by Title
 Table 2 shows the following:
-- There are 72458 retirement-age employees in the company and these positions need to be filled when the "silver tsunami" begins.
+- There are 72458 retirement-age employees in the company.
+- These positions need to be filled when the "silver tsunami" begins.
 - 70.16% of retirement-age employees are in Senior positions (Senior Engineer and Senior Staff) which may be alarming for the company as Senior employees are the most experienced and skilled. 
 - There are only 2 managers in retirement age but as we have seen before there are just 5 active managers in the company. Therefore, I would suggest for the decision-makers in the company to hire more managers. 
 
 ### 2. The Employees Eligible for the Mentorship Program
-Table 3 shows us that there are 1549 employees eligible for the mentorship program which could help in skills transfer between employees. 
-In order to know if there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees, I wrote the following query to create a table (See Table 4) showing the number of employees eligible for the mentorship program by title.
+Table 3 shows us that:
+- There are 1549 employees eligible for the mentorship program.
+- These employees could help in skills transfer to junior employees.
+- This table is hard to define if we have enough eligible people to prepare the next generation (it is hard to go through 1549 rows)
+- In order to know if there are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees, I wrote the following query to create a table (See Table 4) showing the number of employees eligible for the mentorship program by title.
 
 **Query to create mentorship eligibility by titles table**
 ```
@@ -104,8 +108,9 @@ Table 5 - Table showing mentorship-eligibility employees by title.
 </p>
 
 
-The average salary per title is the highest for managers which could explain the lack in managers in the company. 
+- The average salary per title is the highest for managers which could explain the lack in managers in the company. 
 
+## Summary
 Finally, I would suggest few things for the decision makers of Pewlett Hackard company:
 - Hiring new managers.
 - Start skill transfer program between senior and junior employees in order to have employees ready to fill senior positions when the later retire. 
