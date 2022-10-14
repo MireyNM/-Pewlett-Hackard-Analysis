@@ -116,6 +116,6 @@ Finally, I would suggest few things for the decision makers of Pewlett Hackard c
 - Start skill transfer program between senior and junior employees in order to have employees ready to fill senior positions when the later retire. 
 - Focus on hiring new staff and engineers as 70.16% of retirement-age employees are senior staff and engineers. 
 - Offer new roles to senior and old employees in the aim of keeping them long enough in the company to share their knowledge with others. The company could offer them less stressful jobs or allow them to work part time or just part time of the year.
-
+ 
 
 
